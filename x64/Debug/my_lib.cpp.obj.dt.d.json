@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tstodorov24\\source\\repos\\rata\\rata\\my_lib.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\tstodorov24\\source\\repos\\rata\\rata\\my_lib.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
